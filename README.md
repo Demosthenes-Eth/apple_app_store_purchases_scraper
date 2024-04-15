@@ -1,5 +1,5 @@
 # apple_app_store_purchases_scraper
-A Python script to scrape your Apple App Store purchases and output them in a CSV format.
+A Python script to scrape your Apple App Store purchases and output them in a CSV file format.
 
 
 **Directions:**
