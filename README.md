@@ -25,3 +25,7 @@ A python script to scrape your apple app store purchases and output them in a CS
 8.  A second file dialog will open asking where you would like to save the CSV output file.  
 
 9.  Once you've specified where to save the output file, the script will process the HTML file on your hard drive and your purchases will be saved in a CSV file at your selected file destination.
+
+*Disclaimers:
+- The script is specific to the HTML formatting used by Apple on the Report a Problem webpage.  Future changes to the page on Apple's part are likely to be breaking changes.
+- I have not tested the script on a mac, so assume PC compatibility for now.*
